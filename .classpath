@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/user/eclipse-workspace/PlickercardQuiz/src/ojdbc6-11.2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/eclipse-workspace/PlickercardQuiz/src/ons-11.2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/eclipse-workspace/PlickercardQuiz/src/oraclepki-11.2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/eclipse-workspace/PlickercardQuiz/src/osdt_cert-11.2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/eclipse-workspace/PlickercardQuiz/src/osdt_core-11.2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/eclipse-workspace/PlickercardQuiz/src/simplefan-11.2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/eclipse-workspace/PlickercardQuiz/src/ucp-11.2.0.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
